@@ -6,17 +6,17 @@ Predicting Movie rating corresponding to the Review Using Naive Bayes Algorithm.
 
 ### Flow of the Program
 
-   Clean the data given by created a pipeline.                               
-       -Tokenizing the review.                                                
-       -Removing the Stop words.                                                     
-       -Stemming the words created.                                           
-       -Store the cleaned review in a new file.                                                  
+   ##### Clean the data given by created a pipeline                               
+         -Tokenizing the review.                                                
+         -Removing the Stop words.                                                     
+         -Stemming the words created.                                           
+         -Store the cleaned review in a new file.                                                  
 
-   Training.                                                    
-       -Training of the data is done by the algorithm Naive-Bayes and using the bag of words Model.
+   ##### Training                                                    
+         -Training of the data is done by the algorithm Naive-Bayes and using the bag of words Model.
 
-   Prediction                                                 
-       -Prediction is made my comparing the prediction of Validation data and the true labels of the data.
+   ##### Prediction                                                 
+         -Prediction is made my comparing the prediction of Validation data and the true labels of the data.
     
 ### How to Run
 
