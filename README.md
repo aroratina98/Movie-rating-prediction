@@ -1,10 +1,10 @@
 # Movie-rating-prediction
 
-Predicting Movie Rating corresponding to the review Using Naive Bayes Algorithm.
+Predicting Movie Rating corresponding to the review using Naive Bayes Algorithm.
 
    Data is given in the form of the text, so NLP is used to clean the data set and then processing the data using the Bag of Words model.
 
-### Flow of the Program
+## Flow of the Program
 
    ##### Clean the data given by created a pipeline                               
    -Tokenizing the review.                                                
@@ -18,7 +18,7 @@ Predicting Movie Rating corresponding to the review Using Naive Bayes Algorithm.
    ##### Prediction                                                 
    -Prediction is made my comparing the prediction of Validation data and the true labels of the data.
     
-### How to Run
+## How to Run
 
 Run the clean_review.py file and give input file name and output file name along with the command in the terminal. For e.g-
 
