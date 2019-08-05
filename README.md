@@ -27,7 +27,7 @@ Run the clean_review.py file and give input file name and output file name along
 With this command the clean_review file will clean the text present in the imdb_trainX.txt and write into the x_train.txt
 
    -Do the same cleaning for the imdb_testX.txt file too.                          
-   -Now simply run the movie_prediction.py file                                              
+   -Now simply run the movie_rating_predic.py file                                              
    -It will print the training accuracy and Testing accuracy                                           
    -Keep the files and code in the same directory otherwise you need to change the path for reading and writing the files.
 
